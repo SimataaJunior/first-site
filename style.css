@@ -1,0 +1,26 @@
+ h1, h2, h3, h4 {
+                    color: red;
+                    background-color: burlywood;
+                    font-size: 30px;
+                }
+                h1 {
+                    color:darkmagenta;
+                }
+                        
+                .important{
+                    color:blueviolet;
+                    background-color: aquamarine;
+                }
+                .uppercase{
+                    text-transform: uppercase ;
+                    color:black;
+                    background-color: rgb(180, 180, 194);
+                }
+                
+                #the-one{
+                    color:crimson; background-color:darkgreen; 
+                }
+                #JR{
+                    text-transform: uppercase;
+                    background-color: aqua;
+                }
